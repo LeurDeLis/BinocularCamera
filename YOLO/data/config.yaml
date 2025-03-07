@@ -1,0 +1,10 @@
+# peach
+train: ./data/train
+val: ./data/valid
+
+#number of classes
+nc: 1
+
+# Classes
+names:
+  0: hand
